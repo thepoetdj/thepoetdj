@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dhruv Joshi</h1>
-<h3 align="center">Engineer. Writer. Explorer.</h3>
+<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h3 align="center">Engineer. Writer.</h3>
 
-- 🔭 I’m currently working on a series of tutorials to setup various data engineering and streaming [tools](https://github.com/thepoetdj/tools) locally with Kubernetes.
+- 🔭 I’m preparing a tutorial series to setup various data engineering and streaming [tools](https://github.com/thepoetdj/tools) locally with Kubernetes, Helm and k3d.
 
-- 🌱 I’m currently revisiting data structures in [modern Java](https://github.com/thepoetdj/forge) and [Rust](https://github.com/thepoetdj/forge-rs).
+- 🌱 I'm revisiting data structures with [modern Java](https://github.com/thepoetdj/forge) and [Rust](https://github.com/thepoetdj/forge-rs).
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/thepoetdj).
+- 👨‍💻 All of my projects are available [here](https://github.com/thepoetdj?tab=repositories).
 
 - 💬 Ask me about **anything in Java**.
 
